@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+
+h1 {
+  color: #ffb347;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px #222a36;
+}
 }
 
 body {
